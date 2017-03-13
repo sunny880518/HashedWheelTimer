@@ -1,0 +1,25 @@
+{
+  "name": "hw-timer",
+  "version": "1.0.0",
+  "description": "this is a timer designed by hashed wheel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunny880518/HashedWheelTimer.git"
+  },
+  "keywords": [
+    "timer",
+    "hashedWheel",
+    "hash",
+    "wheel"
+  ],
+  "author": "Slee",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/sunny880518/HashedWheelTimer/issues"
+  },
+  "homepage": "https://github.com/sunny880518/HashedWheelTimer#readme"
+}
